@@ -5,7 +5,7 @@
       <h1 class="title">
         tailwind-bug
       </h1>
-      <h2 class="subtitle">
+      <h2 class="subtitle bg-green-300">
         My outstanding Nuxt.js project
       </h2>
       <div class="links">
